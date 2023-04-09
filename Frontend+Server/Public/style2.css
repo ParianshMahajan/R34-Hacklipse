@@ -1,0 +1,97 @@
+*{
+    padding: auto;
+    margin: auto;
+}
+body{
+    background-image: url(https://p1.pxfuel.com/preview/913/24/976/kids-slum-poverty-poor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    margin:0.5% 0%;
+    padding:1.5% 0%;    
+    background-color: rgb(235, 233, 233);
+    text-align: center;
+    font-size: 30px;
+    border: 5px rgb(184, 184, 184) solid;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.myform{
+    margin:10% 35%;
+    background-color: rgba(4, 4, 4, 0.75);
+    padding:2% 1% 5% 1%;
+    border: 5px rgb(184, 184, 184) ;
+    border-radius: 20px;
+}
+
+.myform h1{
+    text-align: left;
+    padding:0% 10% 6% 10%;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+.myform label{
+    margin:auto;
+    color: white;
+    font-size: 25px;
+    margin:0% 10% 0% 10%;
+    display: block;
+}
+
+.myform input{
+    margin:auto;
+    font-size: 25px;
+    margin:0% 10%;
+    width: 80%;
+    background-color: rgba(207, 207, 207,.2);
+    border: 2px rgba(33, 33, 33,0.3) solid;
+    border-radius: 4px;
+    display: block;
+}
+
+.myform #Submit{
+    font-size: 20px;
+    color: rgb(10, 10, 10);
+    background: rgb(249, 248, 248);
+    margin:0% 10%;
+    border-radius: 4px;
+    width: 81%;
+    padding: 1%;
+}
+
+.myform #Submit:hover{
+    color: rgb(250, 249, 249);
+    background-color: white;
+    border-radius: 4px;
+    font-size: 22px;
+    font-weight: 600;
+    border: 2px rgb(252, 252, 252) solid;
+}
+
+.mydivlist{
+    margin:5% 35%;
+    background-color: rgb(235,233, 233);
+    padding:3% 0%;
+    border-radius: 6px;
+}
+
+.mydivlist ul{
+    list-style: none;
+    padding:0% 8% ;
+}
+
+.mydivlist li{
+    font-size: 20px;
+    margin: 5% 0%;
+    padding: 1.5% 5%;
+    text-transform: uppercase;
+    border: 3px rgb(197, 196, 196) solid ;
+    border-radius: 20px;
+}
